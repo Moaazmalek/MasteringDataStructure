@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="Array/Array.csproj" Id="b000a8e3-0387-43d5-8da5-e57e9948cad4" />
+  <Project Path="CircularDoublyLinkedList/CircularDoublyLinkedList.csproj" Id="5458be91-f615-4c02-aa30-93064b1deb1f" />
+  <Project Path="CircularSinglyLinkedList/CircularSinglyLinkedList.csproj" Id="d6d37a37-0607-4388-942d-b7b75267ec80" />
+  <Project Path="DoublyLinkedList/DoublyLinkedList.csproj" Id="07fb1326-3925-4d6a-9367-76fe155897c8" />
+  <Project Path="SinglyLinkedList/SinglyLinkedList.csproj" Id="e3e0e8b0-6f67-4cb4-9c84-78cfbc3b5d04" />
+  <Project Path="StackUsingArray/StackUsingArray.csproj" Id="bad0f830-f55a-4a53-a5f5-8992b90f0a40" />
+  <Project Path="StackUsingLinkedList/StackUsingLinkedList.csproj" Id="5b0b65e8-d95d-4a8f-960a-f9889ff06a80" />
+</Solution>
