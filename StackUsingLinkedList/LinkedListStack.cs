@@ -23,22 +23,30 @@
             Node newNode = new(value);
             newNode.Next = _top; //maybe null here 
             _top = newNode;
+            Count++;
+        }
+
+        public int Pop()
+        {
+            if (_top == null) throw new InvalidOperationException("Stack is empty");
+            Node temp = _top;
+            _top = _top.Next;
+            Count--;
+            return temp.Data;
         }
         public void Display()
-        {
-            if (_top == null) return;
-            else
-            {
-                //[10][3][2] 
+        {  //[10][3][2] 
                 Node Current = _top;
                 while(Current!= null)
                 {
                     Console.WriteLine($"[{Current.Data}]");
                     Current = Current.Next;
-                }
-
-            }
-            
+                } 
+        }
+        public int Peek()
+        {
+            if (_top == null) throw new InvalidOperationException("Stack is empty");
+            return _top.Data;
         }
 
     }
