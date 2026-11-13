@@ -3,6 +3,9 @@
   <Project Path="CircularDoublyLinkedList/CircularDoublyLinkedList.csproj" Id="5458be91-f615-4c02-aa30-93064b1deb1f" />
   <Project Path="CircularSinglyLinkedList/CircularSinglyLinkedList.csproj" Id="d6d37a37-0607-4388-942d-b7b75267ec80" />
   <Project Path="DoublyLinkedList/DoublyLinkedList.csproj" Id="07fb1326-3925-4d6a-9367-76fe155897c8" />
+  <Project Path="InfixToPostfixConvertor/InfixToPostfixConvertor.csproj" Id="cb2be1d9-3b83-404f-8786-afdf9ffeeafd" />
+  <Project Path="QueueUsingArray/QueueUsingArray.csproj" Id="d0405eb5-ba3b-4759-81a3-a9f9b5752ffc" />
+  <Project Path="QueueUsingLinkedList/QueueUsingLinkedList.csproj" Id="077ebe34-9121-404e-a252-3a0306f36536" />
   <Project Path="SinglyLinkedList/SinglyLinkedList.csproj" Id="e3e0e8b0-6f67-4cb4-9c84-78cfbc3b5d04" />
   <Project Path="StackUsingArray/StackUsingArray.csproj" Id="bad0f830-f55a-4a53-a5f5-8992b90f0a40" />
   <Project Path="StackUsingLinkedList/StackUsingLinkedList.csproj" Id="5b0b65e8-d95d-4a8f-960a-f9889ff06a80" />
